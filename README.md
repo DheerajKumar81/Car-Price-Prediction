@@ -208,12 +208,10 @@ Feature engineering, encoding techniques, and regression modeling were applied t
 
 ## 👨‍💻 Author
 
-**Batman**
+**Dheeraj Kumar**
 
 Machine Learning & Data Science Enthusiast
 
 ---
 
-## 📜 License
 
-This project is licensed under the MIT License.
