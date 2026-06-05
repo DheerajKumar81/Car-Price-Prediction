@@ -213,7 +213,7 @@ Feature engineering, encoding techniques, and regression modeling were applied t
 Machine Learning & Data Science Enthusiast
 
 ---
-## Visualizations
+## 📊 Visualizations
 
 ![Car Model](Images/Car%20Model.PNG)
 
