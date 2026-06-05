@@ -213,7 +213,7 @@ Feature engineering, encoding techniques, and regression modeling were applied t
 Machine Learning & Data Science Enthusiast
 
 ---
-### Visualizations
+## Visualizations
 
 ![Car Model](Images/Car%20Model.PNG)
 
@@ -224,9 +224,9 @@ Machine Learning & Data Science Enthusiast
 ![Fuel Type](Images/Fuel%20Type.PNG)
 
 ![Heatmap](Images/Heatmap.PNG)
-
+## Label Encoder Accuracy
 ![Label Encoder](Images/Label%20Encoder.PNG)
-
+## One-Hot Encoding Accuracy
 ![One - Hot encoding](Images/One%20-%20Hot%20encoding.PNG)
 
 ![Transmission Type](Images/Transmission%20Type.PNG)
