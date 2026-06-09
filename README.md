@@ -1,6 +1,6 @@
 # 🚗 Ford Car Price Prediction
 
-A Machine Learning project that predicts the price of Ford cars using various vehicle attributes such as model, year, mileage, fuel type, transmission type, MPG, tax, and engine size.
+The Ford Car Price Prediction project is a machine learning-based application designed to estimate the market price of Ford vehicles using various technical and market-related features. In the automotive industry, accurately determining a vehicle's value is essential for both buyers and sellers, as it helps ensure fair pricing and informed decision-making.
 
 ---
 
