@@ -208,7 +208,7 @@ Feature engineering, encoding techniques, and regression modeling were applied t
 
 ## 👨‍💻 Author
 
-**Dheeraj Kumar**
+**J Dheeraj Kumar**
 
 Machine Learning & Data Science Enthusiast
 
