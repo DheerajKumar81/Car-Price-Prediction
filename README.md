@@ -228,7 +228,6 @@ Machine Learning & Data Science Enthusiast
 ![Label Encoder](Images/Label%20Encoder.PNG)
 ## One-Hot Encoding Accuracy
 ![One - Hot encoding](Images/One%20-%20Hot%20encoding.PNG)
-
 ![Transmission Type](Images/Transmission%20Type.PNG)
 
 
